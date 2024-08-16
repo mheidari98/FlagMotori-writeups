@@ -356,6 +356,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://FlagMotori.github.io/writeups/reverse/Tools/</loc>
+         <lastmod>2024-08-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://FlagMotori.github.io/writeups/reverse/writeups/2023/BackdoorCTF/Sl4ydroid/</loc>
          <lastmod>2024-08-16</lastmod>
          <changefreq>daily</changefreq>
