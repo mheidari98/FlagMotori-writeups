@@ -53,6 +53,7 @@ plugins:
   - tags:
       tags_file: tags.md
   - minify:
+      enabled: !ENV [CI, false]
       minify_html: true
   - git-revision-date-localized:
       enabled: !ENV [CI, false]
@@ -216,6 +217,7 @@ nav:
             - crypto/mindmap/index.md
         - معرفی ابزار:
             - crypto/Tools/index.md
+        - "چکیده‌نامه": crypto/cheatsheet.md
         - جزوه:
             - ریاضیات رمزنگاری:
                 - حساب پیمانه‌ای:
