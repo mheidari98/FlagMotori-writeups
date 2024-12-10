@@ -217,7 +217,8 @@ nav:
             - crypto/mindmap/index.md
         - معرفی ابزار:
             - crypto/Tools/index.md
-        - "چکیده‌نامه": crypto/cheatsheet.md
+        - "چکیده‌نامه": 
+            - crypto/cheatsheet/index.md
         - جزوه:
             - ریاضیات رمزنگاری:
                 - حساب پیمانه‌ای:
