@@ -120,8 +120,8 @@ KLZCOUKTVOUWUKDOBGZVJIIIRGVHXCRQUCNOX_IBBL
 	\end{bmatrix}
 	\equiv
 	\begin{bmatrix}
-	19 & 3 \\
-	5 & 24 
+	20 & 3 \\
+	5 & 25 
 	\end{bmatrix} \mod 27
 	$$
 
